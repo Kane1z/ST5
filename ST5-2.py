@@ -8,8 +8,6 @@ def achou(numero):
             maior = int(digito)
     return maior
 
-
 numero = int(input("Digite um número inteiro: "))
-
 
 print("O maior algarismo em",achou(numero))
