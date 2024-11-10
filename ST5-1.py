@@ -5,5 +5,4 @@ def potten(base, expoe):
 num = int(input("Digite o número: "))
 expo = int(input("Digite o expoente: "))
 
-
 print(num," elevado a",expo,"é igual a",potten(num, expo))
